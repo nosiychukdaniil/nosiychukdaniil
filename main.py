@@ -11,3 +11,5 @@ class Restaurant():
 my_rest = Restaurant("MD","trash")
 my_rest.open_restaurant()
 my_rest.describe_restaurant()
+yir_rest = Restaurant('test','test2'
+)
